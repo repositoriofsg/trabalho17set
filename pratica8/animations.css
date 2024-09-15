@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f3f3f3;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu-item {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+.menu-item:hover {
+    transform: scale(1.1);
+    background-color: #45a049;
+}

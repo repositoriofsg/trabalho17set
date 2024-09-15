@@ -1,0 +1,17 @@
+.container {
+  background-color: Cyan;
+  padding: 20px;
+}
+
+.destaque {
+  color: blue;
+  font-weight: bold;
+}
+
+h1 + p {
+  margin-top: 0;
+}
+
+ul li:nth-child(odd) {
+  background-color: gray;
+}

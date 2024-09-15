@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: cyan;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: Red;   
+
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}

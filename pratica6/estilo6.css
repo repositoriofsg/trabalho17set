@@ -1,0 +1,25 @@
+
+body {
+  font-family: "Arial", sans-serif;
+  margin: auto;
+  width: 95%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  row-gap: 20px;
+  column-gap: 20px;
+}
+
+.imagem {
+  width: 400px;
+  height: 300px;
+}
+
+

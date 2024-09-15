@@ -1,0 +1,39 @@
+
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 1.125em;
+  margin: auto;
+  padding-top: 15px;
+  width: 95%;
+}
+
+.layout {
+  display: block;
+  border: 5px solid green;
+  width: 90%;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
+  }
+
+.cabecalho {
+  height: 100px;
+  border: 5px solid blue;
+  padding: 10px;
+  margin: 10px;
+}
+
+.principal {
+  height: 500px;
+  border: 5px solid orange;
+  padding: 10px;
+  margin: 10px;
+}
+
+.rodape {
+  height: 50px;
+  border: 5px solid blue;
+  padding: 10px;
+  margin: 10px;
+}
