@@ -1,6 +1,6 @@
 # Consolidação de CSS
 
-**Colaboradores**: Marcio Barcellos, Igor Chupel, Felipe ???
+**Colaboradores**: Marcio Barcellos, Igor Chupel, Felipe Maciel Flôr
 
 
 ## Capitulo 1
@@ -80,7 +80,7 @@ a {
 }
 ~~~
 
-Exemplo 1 - [https://repositoriofsg.github.io/trabalho17set/pratica1/](https://repositoriofsg.github.io/trabalho17set/pratica1/)
+Prática 1 - [https://repositoriofsg.github.io/trabalho17set/pratica1/](https://repositoriofsg.github.io/trabalho17set/pratica1/)
 
 
 ## Capitulo 2
@@ -184,7 +184,7 @@ ul li:nth-child(odd) {
   background-color: gray;
 }
 ~~~
-Exemplo 2 - [https://repositoriofsg.github.io/trabalho17set/pratica2/](https://repositoriofsg.github.io/trabalho17set/pratica2/)
+Prática 2 - [https://repositoriofsg.github.io/trabalho17set/pratica2/](https://repositoriofsg.github.io/trabalho17set/pratica2/)
 
 
 ## Capítulo 3
@@ -249,7 +249,7 @@ Ex3css.css
 background: linear-gradient(to right, red, yellow);
 
 ~~~
-Exemplo 3 - [https://repositoriofsg.github.io/trabalho17set/pratica3/](https://repositoriofsg.github.io/trabalho17set/pratica3/)
+Prática 3 - [https://repositoriofsg.github.io/trabalho17set/pratica3/](https://repositoriofsg.github.io/trabalho17set/pratica3/)
 
 ### Capítulo 4: Tipografia
 
@@ -403,7 +403,7 @@ Prática 6 - [https://repositoriofsg.github.io/trabalho17set/pratica6/](https://
 * **Prática:** 
   Desenvolver um layout de página simples com cabeçalho, conteúdo principal e rodapé utilizando o CSS Grid.
 
-Grid_Layout - [https://repositoriofsg.github.io/trabalho17set/pratica7/](https://repositoriofsg.github.io/trabalho17set/pratica7/)
+Prática 7 - [https://repositoriofsg.github.io/trabalho17set/pratica7/](https://repositoriofsg.github.io/trabalho17set/pratica7/)
 
 
 ## Capítulo 8: Estilização Avançada e Animações 
@@ -422,7 +422,7 @@ Grid_Layout - [https://repositoriofsg.github.io/trabalho17set/pratica7/](https:/
 * **Prática:** 
   Criar um menu de navegação interativo com animações e efeitos visuais utilizando as propriedades de animação do CSS.
 
-Estilo_Animacao - [https://repositoriofsg.github.io/trabalho17set/pratica8/](https://repositoriofsg.github.io/trabalho17set/pratica8/)
+Prática 8 - [https://repositoriofsg.github.io/trabalho17set/pratica8/](https://repositoriofsg.github.io/trabalho17set/pratica8/)
 
 
 ## Capítulo 9: Responsividade e Media Queries
@@ -441,7 +441,7 @@ Estilo_Animacao - [https://repositoriofsg.github.io/trabalho17set/pratica8/](htt
 * **Prática:** 
   Desenvolver um layout que se adapta a diferentes tamanhos de tela, usando Media Queries e técnicas de responsividade.
 
-Responsividade_MediaQ - [https://repositoriofsg.github.io/trabalho17set/pratica9/](https://repositoriofsg.github.io/trabalho17set/pratica9/)
+Prática 9 - [https://repositoriofsg.github.io/trabalho17set/pratica9/](https://repositoriofsg.github.io/trabalho17set/pratica9/)
 
 
 ## Capítulo 10: Boas Práticas e Otimização
